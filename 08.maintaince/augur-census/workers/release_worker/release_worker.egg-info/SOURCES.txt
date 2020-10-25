@@ -1,0 +1,7 @@
+setup.py
+release_worker.egg-info/PKG-INFO
+release_worker.egg-info/SOURCES.txt
+release_worker.egg-info/dependency_links.txt
+release_worker.egg-info/entry_points.txt
+release_worker.egg-info/requires.txt
+release_worker.egg-info/top_level.txt

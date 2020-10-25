@@ -1,0 +1,3 @@
+[console_scripts]
+insight_worker_start = workers.insight_worker.runtime:main
+

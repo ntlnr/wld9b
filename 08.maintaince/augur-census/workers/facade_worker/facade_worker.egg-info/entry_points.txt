@@ -1,0 +1,3 @@
+[console_scripts]
+facade_worker_start = facade_worker.runtime:main
+

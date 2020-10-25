@@ -1,0 +1,9 @@
+2020-10-21 21:00:00,272,272ms [PID: 91288] augur.logging [DEBUG] Logfiles initialized at /Users/zhangxiao/Documents/CS4320/augur-census/logs/
+2020-10-21 21:00:00,273,273ms [PID: 91288] augur.application [DEBUG] Running in online mode
+2020-10-21 21:00:00,351,351ms [PID: 91288] augur.application [DEBUG] Database connection successfully established
+2020-10-21 21:00:00,351,351ms [PID: 91288] augur.metrics [DEBUG] Importing metrics
+2020-10-21 21:00:00,358,358ms [PID: 91288] augur [INFO] Augur application initialized
+2020-10-21 21:00:00,358,358ms [PID: 91288] augur [INFO] Using config file: /Users/zhangxiao/Documents/CS4320/augur-census/augur.config.json
+2020-10-21 21:00:00,359,359ms [PID: 91288] augur [DEBUG] Cleaning up old Augur processes...
+2020-10-21 21:00:02,710,710ms [PID: 91288] augur.housekeeper [INFO] Booting housekeeper
+2020-10-21 21:00:02,784,784ms [PID: 91288] augur.housekeeper [INFO] Preparing housekeeper jobs

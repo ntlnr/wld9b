@@ -1,0 +1,7 @@
+setup.py
+value_worker.egg-info/PKG-INFO
+value_worker.egg-info/SOURCES.txt
+value_worker.egg-info/dependency_links.txt
+value_worker.egg-info/entry_points.txt
+value_worker.egg-info/requires.txt
+value_worker.egg-info/top_level.txt

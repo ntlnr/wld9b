@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: value-worker
+Version: 1.0.0
+Summary: Augur Worker that gathers value data
+Home-page: https://github.com/chaoss/augur
+Author: Augurlabs
+Author-email: s@goggins.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7

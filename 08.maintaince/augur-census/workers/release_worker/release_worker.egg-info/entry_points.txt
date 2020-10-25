@@ -1,0 +1,3 @@
+[console_scripts]
+release_worker_start = workers.release_worker.runtime:main
+

@@ -1,0 +1,3 @@
+[console_scripts]
+contributor_worker_start = workers.contributor_worker.runtime:main
+

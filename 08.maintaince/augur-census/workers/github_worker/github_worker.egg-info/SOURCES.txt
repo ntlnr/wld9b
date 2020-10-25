@@ -1,0 +1,7 @@
+setup.py
+github_worker.egg-info/PKG-INFO
+github_worker.egg-info/SOURCES.txt
+github_worker.egg-info/dependency_links.txt
+github_worker.egg-info/entry_points.txt
+github_worker.egg-info/requires.txt
+github_worker.egg-info/top_level.txt

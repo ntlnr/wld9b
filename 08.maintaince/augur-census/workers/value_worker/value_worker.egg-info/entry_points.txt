@@ -1,0 +1,3 @@
+[console_scripts]
+value_worker_start = workers.value_worker.runtime:main
+

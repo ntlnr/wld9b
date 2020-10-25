@@ -1,0 +1,7 @@
+setup.py
+insight_worker.egg-info/PKG-INFO
+insight_worker.egg-info/SOURCES.txt
+insight_worker.egg-info/dependency_links.txt
+insight_worker.egg-info/entry_points.txt
+insight_worker.egg-info/requires.txt
+insight_worker.egg-info/top_level.txt

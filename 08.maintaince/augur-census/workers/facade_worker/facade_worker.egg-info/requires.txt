@@ -1,0 +1,6 @@
+flask
+requests
+xlsxwriter
+psycopg2-binary
+click
+pymysql

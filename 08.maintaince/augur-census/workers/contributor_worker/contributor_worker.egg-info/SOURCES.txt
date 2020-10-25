@@ -1,0 +1,7 @@
+setup.py
+contributor_worker.egg-info/PKG-INFO
+contributor_worker.egg-info/SOURCES.txt
+contributor_worker.egg-info/dependency_links.txt
+contributor_worker.egg-info/entry_points.txt
+contributor_worker.egg-info/requires.txt
+contributor_worker.egg-info/top_level.txt
